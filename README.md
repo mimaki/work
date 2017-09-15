@@ -4,6 +4,8 @@
 
 [gist参照](https://gist.github.com/mimaki/03237e50f8d70741c53dc7bb70251f32.js)
 
+[gist参照](https://gist.github.com/mimaki/03237e50f8d70741c53dc7bb70251f32.pibb)
+
 <pre class="prettyprint linenums">
 class Hoge
   def hoge
@@ -12,3 +14,5 @@ class Hoge
 end
 Hoge.new.hoge
 </pre>
+
+[コード参照](https://github.com/mimaki/work/hoge.rb#L2-4)
