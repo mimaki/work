@@ -15,4 +15,4 @@ end
 Hoge.new.hoge
 </pre>
 
-[コード参照](https://github.com/mimaki/work/blob/master/hoge.rb#L2-4)
+[コード参照](https://github.com/mimaki/work/blob/master/hoge.rb#L2-L4)
